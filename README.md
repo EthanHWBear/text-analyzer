@@ -1,3 +1,56 @@
+# _{Text Analyzer}_
+
+#### Independent Project - Week 3 - JavaScript Arrays & Looping
+
+ By *{Ethan Bear}*
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _Markdown_
+* _Bootstrap_
+* _JavaScript_
+* _jQuery_
+
+#
+
+## Description
+
+_{A website designed to showcase competencies in Javascript Arrays and Looping.}_
+
+#
+
+## https://ethanhwbear.github.io/text-analyzer/
+
+#
+
+## Application Setup instructions
+
+* _Make sure you have the latest versions of the related software installed on your machine._
+* _Clone this repository to your desktop by executing $ git clone https://github.com/ in the command line._
+* _Select the "index.html" file within the project directory to open the web page in your browser._
+
+#
+
+## Known Bugs
+
+* _No known bugs at the time of publishing._
+
+#
+
+## License
+
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Copyright (c) 2021 Ethan Bear
+
+## Contact Information
+
+Ethan Bear <a href="mailto:ehwbear@icloud.com">ehwbear@icloud.com</a>
+
+// TESTS //
+
 Describe: wordCounter()
 
 Test: "It should return 1 if a passage has just one word."
